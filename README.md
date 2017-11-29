@@ -10,7 +10,7 @@ I am enthusiastic about coding and both what it can do and what I can do for the
 
 
 A few things to note: The Financials.zip file is represented in two parts as a .java file: Annuity.java, and Loan.java.
-As well, the LetterCode.zip file is a GUI represented in three parts: LetterCodeView.java, LetterCodeApp.java, and LetterCode
+As well, the LetterCode.zip file is a GUI represented in three parts: LetterCodeView.java, LetterCodeApp.java, and LetterCodeLogic.java.
 
 Thanks you, again, for taking the time to review my work and consider my candidacy for LaunchCode.
 
