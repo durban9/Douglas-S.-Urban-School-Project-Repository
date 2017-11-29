@@ -1,4 +1,4 @@
-System.out.printn("Hello, World!"); 
+Hello, World!
 
 Welcome to my repository on GitHub! 
 
